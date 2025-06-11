@@ -1,1 +1,3 @@
 # DP-Series-By-Aditya-Verma-Bhaiya-
+
+This is DP Series by Aditya Verma Bhaiya. <br> & <br> In this Repo you will find <b>Code<b> of all it Lecture as well Problem taken by him...
