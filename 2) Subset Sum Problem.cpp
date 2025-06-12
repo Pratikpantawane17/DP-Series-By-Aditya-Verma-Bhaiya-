@@ -41,6 +41,7 @@ public:
     bool isSubsetSum(vector<int>& arr, int sum) {
         // code here
         int n = arr.size();
+        vector<vector<int>> dp(n+1, vector<int>(sum+1, -1));
         return solve(arr, sum, n);
     }
 };
